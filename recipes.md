@@ -28,9 +28,9 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 - 1 Yellow Onion _(Diced)_
 - Green Onion _(2-3 stalks, Thinly Sliced including White and Green bits)_
 - Garlic _(Mince 2-3 or more Cloves, you can substitute with Garlic Powder)_
-  - _If you are a Garlic lover like I am then put as much in as you like!_
+  - _If you are a Garlic lover like I am then put more in! I'm not the Garlic-Police_
 - Soy Sauce _(3 Tablespoons)_
-- Fish Sauce _(Couple Dashes)_
+- Fish Sauce _(Couple Dashes, this will smell to some noses a bit odd, but adds some "Umami" to the mix which you'll love)_
 - **Protein of Your Choice!** Here are some suggestions _(1 - 1.5 pounds cut into bite sized cubes)_:
   - Chicken Thighs _(has the fat content to not dry out)_
   - Pork
