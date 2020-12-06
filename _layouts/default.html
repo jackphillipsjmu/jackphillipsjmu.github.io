@@ -36,6 +36,20 @@
           <span class="right-tail"></span>
         </span>
       </header>
+
+      {% if site.show_downloads %}
+  <section id="downloads">
+    <span class="inner">
+      <a href="https://jackphillipsjmu.github.io" class="zip">Home</a><a href="https://jackphillipsjmu.github.io/recipes.html" class="tgz">Recipes</a>
+    </span>
+  </section>
+{% else %}
+  <div id="no-downloads">
+    <span class="inner">
+    </span>
+  </div>
+{% endif %}
+
       <div id="no-downloads">
         <span class="inner">
         </span>
