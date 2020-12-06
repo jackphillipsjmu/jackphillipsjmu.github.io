@@ -30,7 +30,7 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 - Garlic _(Mince 2-3 or more Cloves, you can substitute with Garlic Powder)_
   - _If you are a Garlic lover like I am then put more in! I'm not the Garlic-Police_
 - Soy Sauce _(3 Tablespoons)_
-- Fish Sauce _(Couple Dashes, this will smell to some noses a bit odd, but adds some "Umami" to the mix which you'll love)_
+- Fish Sauce _(Couple Dashes, this will smell to some noses a bit odd, but, adds some "Umami" to the mix which you'll love)_
 - **Protein of Your Choice!** Here are some suggestions _(1 - 1.5 pounds cut into bite sized cubes)_:
   - Chicken Thighs _(has the fat content to not dry out)_
   - Pork
@@ -70,8 +70,8 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 - Add in your Protein of Choice and _optional Thai Eggplant_ to the Pot.
 - Stir and Cover the Pot to let the ingredients simmer and get to know each other without loosing much of the Coconut Milk due to evaporation.
 - Stir occasionally over the next 10 - 15 minutes.
-- Remove the lid from the Pot and let the Curry reduce stirring occasionally and try to scrape any bits on the bottom of the pan that may have formed. While it's reducing Prepare your Rice or Noodles.
 - Add in your Bamboo Shoots, Carrots or Both to give a little crunch to the dish.
+- Remove the lid from the Pot and let the Curry reduce stirring occasionally and try to scrape any bits on the bottom of the pan that may have formed. While it's reducing Prepare your Rice or Noodles.
 - While the Rice/Noodles are cooking taste the Curry. If it's too spicy for you or the people you are serving just add in more Coconut Milk to dilute it.
   - Try out putting a little bit of fresh Lime Juice into your samples. The citrus/acidity it adds can really make or break a dish.
 - Once your Rice/Noodles are done check the Curry. If it has the consistency you're looking for then take it off direct heat, otherwise, let it reduce further stirring occasionally. _By leaving it on the heat source you will thicken the Curry just ensure you stir and scrape the bottom of the Pot for those tasty thangs that adhere to the bottom_.
