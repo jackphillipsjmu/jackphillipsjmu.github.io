@@ -3,7 +3,7 @@
 
 ## A Play on Thai Curry
 
-One of my favorite comfort foods to make on colder days. This recipe is influenced primarily by a friend of mine who made a rendition of shortly after my Mom passed away. I hope you can be comforted by it too and throw in your own personal touch.
+One of my favorite comfort foods to make on colder days. This recipe is influenced primarily by a friend of mine who made a rendition of it shortly after my Mom passed. I hope you can be comforted by it too and throw in your own personal touches.
 
 <dl>
 <dt>Serves</dt>
@@ -12,32 +12,33 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 <dd>15 - 20 minutes</dd>
 <dt>Cook Time</dt>
 <dd>Under 1 Hour</dd>
-<dt>What You'll Need</dt>
+<dt>Tool's You'll Need</dt>
 <dd>Dutch Oven or Large Pot</dd>
 <dd>Spatula</dd>
 <dd>Kitchen Knife</dd>
-<dd>Table Spoon</dd>
+<dd>Table Spoon for Measurement's</dd>
 <dd>Serving Spoon/Ladel</dd>
 <dd>(Optional) Blender</dd>
 </dl>
 
 ### Ingredients
-- Red Thai Curry Paste (Panang is my Recommended Curry Paste, 2 tablespoons)
-- Coconut Milk (Buy a Box or a Few Cans, Having Extra can help to Dilute if needed)
-- Rice or Noodles (1 Cup of Rice)
+- Red Thai Curry Paste (2 tablespoons, _Panang is my Recommended Curry Paste_)
+- Coconut Milk (Buy a Box, 33.8 oz or a few cans. Having Extra can help to Dilute the heat of the Curry if needed)
+- Rice or Noodles to serve the goodness on top of (1+ Cup of Rice, it's impossible to gauge the amount of Noodles so do what meets you and your guest needs)
 - 1 Yellow Onion (Diced)
 - Green Onion (Thinly Sliced including White and Green bits)
 - Garlic (Mince 2-3 or more Cloves, you can substitute with Garlic Powder if you'd like)
+  - If you are a garlic lover like I am then put as much as you like!
 - Soy Sauce (3 Tablespoons)
-- Fish Sauce (Couple of Dashes)
-- Protein of Your Choice! Here are some suggestions (1 - 1.5 pounds chopped into bite sized cubes):
-  - Chicken Thighs
+- Fish Sauce (Couple Dashes)
+- **Protein of Your Choice!** Here are some suggestions (1 - 1.5 pounds cut into bite sized cubes):
+  - Chicken Thighs _(has the fat content to not dry out)_
   - Pork
   - Beef
   - Tofu (Firm)
-- Bok Choi or Another Leafy Green
-- Bamboo Shoots or Shredder Carrots to provide some crunch
-- Olive Oil/Any Cooking Oil
+- Bok Choy or Other Leafy Green _(Swiss Chard is a nutritional powerhouse)_
+- Bamboo Shoots or Shredded Carrots to provide some crunch. **Note**: Peanuts are also good to throw on this dish for added crunch and fat content.
+- Olive Oil/Any Cooking Oil you have
 - Salt
 - _(Optional)_ Thai Eggplant (Cut into Quarters)
 - _(Optional)_ Sesame Oil (Just a Dash)
@@ -45,26 +46,30 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 
 ### Prep and Cook
 - Dice the Yellow Onion.
-- Heat up a Dutch Oven/Large Pot over medium-high heat with 1 - 2 Tablespoons of oil and add in the diced Yellow Onion with a pinch of salt. **Before you add the Onion** Later on if you choose to use a blender to make the primary Curry sauce then set about a quarter of the Onion aside.
+- Heat up a Dutch Oven/Large Pot over medium-high heat with 1 - 2 Tablespoons of oil.
+- Add in the diced Yellow Onion with a pinch of salt.
+  - **Before you add the Onion** Later on if you choose to use a blender to make the primary Curry sauce then set about a quarter of the Onion aside.
 - While the Yellow Onion begins to simmer
   - Thinly slice the Green Onion
   - Mince your Garlic
-  - Roughly cut the Bok Choi into 1/4 inch slices including the leaves.
-  - If you grabbed some Thai Eggplant then cut them into quarters as well.
+  - Roughly cut the Bok Choy into 1/4 inch slices including the leaves.
+  - _If you grabbed some Thai Eggplant then cut them into quarters as well._
   - Cut the Protein/Tofu into bite sized pieces.
-- Add the chopped Bok Choi to the Pot after the Yellow Onion is starting to become fragrant.
-- Using the Blender Method for Curry Base
-  - If you have a Blender handy add the Green Onion, Garlic, quarter of the Yellow Onion, 2 Tablespoons of Curry Paste, a splash of oil and about a half cup of Coconut Milk. Throw in a couple dashes of Fish Sauce, Soy Sauce and Sesame Oil as well for a little flavor boost. Blend them together until it's a relatively smooth texture.
-  - Pour the Blended mix into the Pot.
-- Just the Pot Method for Curry Base
-  - If you do not want to use a blender then just add the Green Onion, Garlic and 2 Tablespoons of Curry Paste to your pot that is simmering the Yellow Onion.
-  - Add in a half cup of Coconut Milk with a couple dashes of Fish Sauce, Soy Sauce and Sesame Oil
-- Let the ingredients simmer for a few minutes then pour in any leftover Coconut Milk. **Note**: If you are using a blender you can add the Coconut Milk to the blender to get all the little bits of missed ingredients. As a bonus it will aerate the milk a little bit.
+- Add the chopped Bok Choy to the Pot after the Yellow Onion is starting to become fragrant.
+- Curry Base Options
+  - Using the Blender Method for Curry Base
+    - If you have a Blender handy add the Green Onion, Garlic, quarter of the Yellow Onion, 2 Tablespoons of Curry Paste, a splash of oil and about a half cup of Coconut Milk.
+    - Throw in a couple dashes of Fish Sauce, Soy Sauce and _optional_ Sesame Oil for a flavor boost. Blend them together until it's a relatively smooth texture.
+    - Pour the Blended mix into the Pot.
+  - Just the Pot Method for Curry Base
+    - If you do not want to use a blender then just add the Green Onion, Garlic and 2 Tablespoons of Curry Paste to your pot that is simmering the Yellow Onion.
+    - Add in a half cup of Coconut Milk with a couple dashes of Fish Sauce, Soy Sauce and _optional_ Sesame Oil.
+- Let the ingredients simmer for a few minutes then pour in any leftover Coconut Milk. _**Note**: If you are using a blender you can add a little Coconut Milk to the blender to get all the little bits of missed ingredients. As a bonus it will aerate the milk too._
 - Add in your Protein of Choice and _optional_ Thai Eggplant the Pot.
 - Stir and Cover the Pot to let the ingredients simmer and get to know each other without loosing much of the Coconut Milk due to evaporation.
 - Stir occasionally over the next 10 - 15 minutes.
 - Remove the lid from the Pot and let the Curry reduce stirring occasionally and try to scrape any bits on the bottom of the pan that may have formed. While it's reducing Prepare your Rice or Noodles.
-- Add in your Bamboo Shoots, Carrots or Both to give a little crunch to the dish. **Note**: Peanuts are also good to throw on this dish for an added crunch.
+- Add in your Bamboo Shoots, Carrots or Both to give a little crunch to the dish.
 - While the Rice/Noodles are cooking taste the Curry. If it's too spicy for you or the people you are serving just add in more Coconut Milk to dilute it.
   - Try out putting a little bit of fresh Lime Juice into your samples. The citrus/acidity it adds can really make or break a dish.
 - Once your Rice/Noodles are done check the Curry. If it's too your liking take it off heat, otherwise, let it reduce further stirring occasionally.
