@@ -22,8 +22,8 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 </dl>
 
 ### Ingredients
-- Red Thai Curry Paste (2 tablespoons)
-- Coconut Milk
+- Red Thai Curry Paste (Panang is my Recommended Curry Paste, 2 tablespoons)
+- Coconut Milk (Buy a Box or a Few Cans, Having Extra can help to Dilute if needed)
 - Rice or Noodles (1 Cup of Rice)
 - 1 Yellow Onion (Diced)
 - Green Onion (Thinly Sliced including White and Green bits)
