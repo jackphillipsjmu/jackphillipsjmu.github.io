@@ -22,13 +22,13 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 </dl>
 
 ### Ingredients
-- Red Thai Curry Paste (2 tablespoons, _Panang is my Recommended Curry Paste_)
-- Coconut Milk (Buy a Box, 33.8 oz or a few cans. Having Extra can help to Dilute the heat of the Curry if needed)
+- Red Thai Curry Paste _(2 tablespoons, **Panang is my Recommended Curry Paste**)_
+- Coconut Milk _(Buy a Box, 33.8 oz or a few cans. Having Extra can help to Dilute the heat of the Curry if needed)_
 - Rice or Noodles to serve the goodness on top of _(1+ Cup of Rice, it's impossible to gauge the amount of Noodles so do what meets you and your guest needs)_
 - 1 Yellow Onion (Diced)
-- Green Onion (2-3 stalks, Thinly Sliced including White and Green bits)
-- Garlic (Mince 2-3 or more Cloves, you can substitute with Garlic Powder if you'd like)
-  - If you are a garlic lover like I am then put as much in as you like!
+- Green Onion _(2-3 stalks, Thinly Sliced including White and Green bits)_
+- Garlic _(Mince 2-3 or more Cloves, you can substitute with Garlic Powder if you'd like)_
+  - If you are a Garlic lover like I am then put as much in as you like!
 - Soy Sauce _(3 Tablespoons)_
 - Fish Sauce _(Couple Dashes)_
 - **Protein of Your Choice!** Here are some suggestions _(1 - 1.5 pounds cut into bite sized cubes)_:
