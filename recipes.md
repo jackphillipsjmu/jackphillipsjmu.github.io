@@ -1,6 +1,5 @@
 # Recipes
-> You don’t need a silver fork to eat good food.
-> Paul Prudhomme
+> You don’t need a silver fork to eat good food. _Paul Prudhomme_
 
 ## A Play on Thai Curry
 
@@ -15,16 +14,17 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 <dd>Under 1 Hour</dd>
 <dt>What You'll Need</dt>
 <dd>Dutch Oven or Large Pot</dd>
+<dd>Spatula</dd>
 <dd>Kitchen Knife</dd>
 <dd>Table Spoon</dd>
 <dd>Serving Spoon/Ladel</dd>
-<dd>_(Optional)_ Blender</dd>
+<dd>(Optional) Blender</dd>
 </dl>
 
 ### Ingredients
 - Red Thai Curry Paste (2 tablespoons)
 - Coconut Milk
-- Rice or Noodles
+- Rice or Noodles (1 Cup of Rice)
 - 1 Yellow Onion (Diced)
 - Green Onion (Thinly Sliced including White and Green bits)
 - Garlic (Mince 2-3 or more Cloves, you can substitute with Garlic Powder if you'd like)
@@ -61,14 +61,15 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
   - Add in a half cup of Coconut Milk with a couple dashes of Fish Sauce, Soy Sauce and Sesame Oil
 - Let the ingredients simmer for a few minutes then pour in any leftover Coconut Milk.
   - **Note**: If you are using a blender you can add the Coconut Milk to the blender to get all the little bits of missed ingredients. As a bonus it will aerate the milk a little bit.
-- Add in your Protein of Choice th
+- Add in your Protein of Choice and optional Thai Eggplant the Pot.
 - Stir and Cover the Pot to let the ingredients simmer and get to know each other without loosing much of the Coconut Milk due to evaporation.
 - Stir occasionally over the next 10 - 15 minutes.
 - Remove the lid from the Pot and let the Curry reduce stirring occasionally and try to scrape any bits on the bottom of the pan that may have formed. While it's reducing Prepare your Rice or Noodles.
+- Add in your Bamboo Shoots, Carrots or Both to give a little crunch to the dish.
+  - **Note**: Peanuts are also good to throw on this dish.
 - While the Rice/Noodles are cooking taste the Curry. If it's too spicy for you or the people you are serving just add in more Coconut Milk to dilute it.
   - Try out putting a little bit of fresh Lime Juice into your samples. The citrus/acidity it adds can really make or break a dish.
-  - **Note**: Noodles usually cook more quickly than Rice so account for
-- Once your Rice/Noodles are done check the Curry. If it's too your liking take it off heat, otherwise, let it reduce further stirring occasionally
+- Once your Rice/Noodles are done check the Curry. If it's too your liking take it off heat, otherwise, let it reduce further stirring occasionally.
 
 ### Serve
 - Add your cooked Rice or Noodles to a bowl and cover with Curry.
