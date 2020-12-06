@@ -50,7 +50,7 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
   - Thinly slice the Green Onion
   - Mince your Garlic
   - Roughly cut the Bok Choi into 1/4 inch slices including the leaves.
-    - If you grabbed some Thai Eggplant then cut them into quarters as well.
+  - If you grabbed some Thai Eggplant then cut them into quarters as well.
   - Cut the Protein/Tofu into bite sized pieces.
 - Add the chopped Bok Choi to the Pot after the Yellow Onion is starting to become fragrant.
 - Using the Blender Method for Curry Base
@@ -59,14 +59,12 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 - Just the Pot Method for Curry Base
   - If you do not want to use a blender then just add the Green Onion, Garlic and 2 Tablespoons of Curry Paste to your pot that is simmering the Yellow Onion.
   - Add in a half cup of Coconut Milk with a couple dashes of Fish Sauce, Soy Sauce and Sesame Oil
-- Let the ingredients simmer for a few minutes then pour in any leftover Coconut Milk.
-  - **Note**: If you are using a blender you can add the Coconut Milk to the blender to get all the little bits of missed ingredients. As a bonus it will aerate the milk a little bit.
-- Add in your Protein of Choice and optional Thai Eggplant the Pot.
+- Let the ingredients simmer for a few minutes then pour in any leftover Coconut Milk. **Note**: If you are using a blender you can add the Coconut Milk to the blender to get all the little bits of missed ingredients. As a bonus it will aerate the milk a little bit.
+- Add in your Protein of Choice and _optional_ Thai Eggplant the Pot.
 - Stir and Cover the Pot to let the ingredients simmer and get to know each other without loosing much of the Coconut Milk due to evaporation.
 - Stir occasionally over the next 10 - 15 minutes.
 - Remove the lid from the Pot and let the Curry reduce stirring occasionally and try to scrape any bits on the bottom of the pan that may have formed. While it's reducing Prepare your Rice or Noodles.
-- Add in your Bamboo Shoots, Carrots or Both to give a little crunch to the dish.
-  - **Note**: Peanuts are also good to throw on this dish.
+- Add in your Bamboo Shoots, Carrots or Both to give a little crunch to the dish. **Note**: Peanuts are also good to throw on this dish for an added crunch.
 - While the Rice/Noodles are cooking taste the Curry. If it's too spicy for you or the people you are serving just add in more Coconut Milk to dilute it.
   - Try out putting a little bit of fresh Lime Juice into your samples. The citrus/acidity it adds can really make or break a dish.
 - Once your Rice/Noodles are done check the Curry. If it's too your liking take it off heat, otherwise, let it reduce further stirring occasionally.
@@ -74,4 +72,4 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 ### Serve
 - Add your cooked Rice or Noodles to a bowl and cover with Curry.
 - Adorn with a quarter of Lime to add to the dish as needed.
-- Enjoy!
+- **Enjoy!**
