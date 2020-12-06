@@ -9,7 +9,7 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 <dt>Serves</dt>
 <dd>4 - 6 People</dd>
 <dt>Preperation Time</dt>
-<dd>15 - 20 minutes</dd>
+<dd>10 - 15 minutes</dd>
 <dt>Cook Time</dt>
 <dd>Under 1 Hour</dd>
 <dt>Tool's You'll Need</dt>
