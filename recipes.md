@@ -25,10 +25,10 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 - Red Thai Curry Paste _(2 tablespoons, **Panang is my Recommended Curry Paste**)_
 - Coconut Milk _(Buy a Box, 33.8 oz or a few cans. Having Extra can help to Dilute the heat of the Curry if needed)_
 - Rice or Noodles to serve the goodness on top of _(1+ Cup of Rice, it's impossible to gauge the amount of Noodles so do what meets you and your guest needs)_
-- 1 Yellow Onion (Diced)
+- 1 Yellow Onion _(Diced)_
 - Green Onion _(2-3 stalks, Thinly Sliced including White and Green bits)_
-- Garlic _(Mince 2-3 or more Cloves, you can substitute with Garlic Powder if you'd like)_
-  - If you are a Garlic lover like I am then put as much in as you like!
+- Garlic _(Mince 2-3 or more Cloves, you can substitute with Garlic Powder)_
+  - _If you are a Garlic lover like I am then put as much in as you like!_
 - Soy Sauce _(3 Tablespoons)_
 - Fish Sauce _(Couple Dashes)_
 - **Protein of Your Choice!** Here are some suggestions _(1 - 1.5 pounds cut into bite sized cubes)_:
@@ -37,9 +37,10 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
   - Beef
   - Tofu _(Firm)_
 - Bok Choy or Other Leafy Green _(Swiss Chard is a nutritional powerhouse)_
-- Bamboo Shoots or Shredded Carrots to provide some crunch. _**Note**: Peanuts are also good to throw on this dish for added crunch and fat content._
-- Olive Oil/Any Cooking Oil you have
-- Salt
+- Bamboo Shoots or Shredded Carrots to provide some _crunch_
+  - _**Note**: Peanuts are also good to throw on this dish for added crunch and fat content._
+- Olive Oil/Any Cooking Oil you have on hand
+- Salt to taste
 - _(Optional)_ Thai Eggplant _(Cut into Quarters)_
 - _(Optional)_ Sesame Oil _(Just a Dash or Two)_
 - _(Optional)_ Lime _(Cut into Quarters)_
