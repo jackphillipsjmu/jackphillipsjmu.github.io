@@ -3,7 +3,7 @@
 
 ## A Play on Thai Curry
 
-One of my favorite comfort foods to make on colder days. This recipe is influenced primarily by a friend of mine who made a rendition of it shortly after my Mom passed. I hope you can be comforted by it too and throw in your own personal touches.
+One of my favorite comfort foods to make on colder days. This recipe is influenced primarily by one of my best friend's (KK) who made a rendition of it shortly after my Mom passed. I hope you can be comforted by it too and throw in your own personal touches.
 
 <dl>
 <dt>Serves</dt>
@@ -30,13 +30,13 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 - Garlic _(Mince 2-3 or more Cloves, you can substitute with Garlic Powder)_
   - _If you are a Garlic lover like I am then put more in! I'm not the Garlic-Police_
 - Soy Sauce _(3 Tablespoons)_
-- Fish Sauce _(Couple Dashes, this will smell to some noses a bit odd, but, adds some "Umami" to the mix which you'll love)_
+- Fish Sauce _(Couple of Dashes, this will smell to some noses a bit odd, but, adds some "Umami" to the mix which you'll love when you're eating)_
 - **Protein of Your Choice!** Here are some suggestions _(1 - 1.5 pounds cut into bite sized cubes)_:
   - Chicken Thighs _(has the fat content to not dry out)_
   - Pork
   - Beef
   - Tofu _(Firm)_
-- Bok Choy or Other Leafy Green _(Swiss Chard is a nutritional powerhouse)_
+- Bok Choy or Other Leafy Green _(Roughly Chopped, Swiss Chard is a nutritional powerhouse and is available most places)_
 - Bamboo Shoots or Shredded Carrots to provide some _crunch_
   - _**Note**: Peanuts are also good to throw on this dish for added crunch and fat content._
 - Olive Oil/Any Cooking Oil you have on hand
