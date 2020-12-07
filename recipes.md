@@ -71,10 +71,11 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 - Stir and Cover the Pot to let the ingredients simmer and get to know each other without loosing much of the Coconut Milk due to evaporation.
 - Stir occasionally over the next 10 - 15 minutes.
 - Add in your Bamboo Shoots, Carrots or Both to give a little crunch to the dish.
-- Remove the lid from the Pot and let the Curry reduce stirring occasionally and try to scrape any bits on the bottom of the pan that may have formed. While it's reducing Prepare your Rice or Noodles.
-- While the Rice/Noodles are cooking taste the Curry. If it's too spicy for you or the people you are serving just add in more Coconut Milk to dilute it.
-  - Try out putting a little bit of fresh Lime Juice into your samples. The citrus/acidity it adds can really make or break a dish.
-- Once your Rice/Noodles are done check the Curry. If it has the consistency you're looking for then take it off direct heat, otherwise, let it reduce further stirring occasionally. _By leaving it on the heat source you will thicken the Curry just ensure you stir and scrape the bottom of the Pot for those tasty thangs that adhere to the bottom_.
+- Remove the lid from the Pot and let the Curry reduce, stirring occasionally, and try to scrape any bits on the bottom of the pan that may have formed. _**While it's reducing Prepare your Rice or Noodles.**_
+- Once the Rice/Noodles are cooking **taste the Curry**. If it's too spicy for you or the people you are serving just add in more Coconut Milk to dilute it.
+  - Try putting a little bit of fresh Lime Juice into your samples. The citrus/acidity it adds can really make or break a dish for some pallets.
+- Once your Rice/Noodles are done check the Curry. If it has the consistency you're looking for then take it off direct heat, otherwise, let it reduce further stirring occasionally.
+  - _By leaving it on the heat source you will thicken the Curry just ensure you stir and scrape the bottom of the Pot for those tasty thangs that adhere to the bottom_.
 
 ### Serve
 - Add your cooked Rice or Noodles to a bowl and cover with your Curry.
