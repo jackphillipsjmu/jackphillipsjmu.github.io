@@ -3,7 +3,7 @@
 
 ## A Play on Thai Curry
 
-One of my favorite comfort foods to make on colder days. This recipe is influenced primarily by one of my best friend's (KK) who made a rendition of it shortly after my Mom passed. I hope you can be comforted by it too and throw in your own personal touches.
+One of my favorite comfort foods to make on colder days. This recipe is influenced primarily by one of my best friend's, KK, who made a rendition of it shortly after my Mom passed. I hope you can be comforted by it too and throw in your own personal touches.
 
 <dl>
 <dt>Serves</dt>
@@ -28,7 +28,7 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 - 1 Yellow Onion _(Diced)_
 - Green Onion _(2-3 stalks, Thinly Sliced including White and Green bits)_
 - Garlic _(Mince 2-3 or more Cloves, you can substitute with Garlic Powder)_
-  - _If you are a Garlic lover like I am then put more in! I'm not the Garlic-Police_
+  - _If you are a Garlic lover like I am then put more in! I'm not the **Garlic-Police**_
 - Soy Sauce _(3 Tablespoons)_
 - Fish Sauce _(Couple of Dashes, this will smell to some noses a bit odd, but, adds some "Umami" to the mix which you'll love when you're eating)_
 - **Protein of Your Choice!** Here are some suggestions _(1 - 1.5 pounds cut into bite sized cubes)_:
@@ -37,7 +37,7 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
   - Beef
   - Tofu _(Firm)_
 - Bok Choy or Other Leafy Green _(Roughly Chopped, Swiss Chard is a nutritional powerhouse and is available most places)_
-- Bamboo Shoots or Shredded Carrots to provide some _crunch_
+- Bamboo Shoots and/or Shredded Carrots to provide some _crunch_
   - _**Note**: Peanuts are also good to throw on this dish for added crunch and fat content._
 - Olive Oil/Any Cooking Oil you have on hand
 - Salt to taste
@@ -49,7 +49,7 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 - Dice the Yellow Onion.
 - Heat up a Dutch Oven/Large Pot over medium-high heat with 1 - 2 Tablespoons of oil.
 - Add in the diced Yellow Onion with a pinch of salt.
-  - **Before you add the Onion!** Later on if you choose to use a blender to make the Curry Base then set about a quarter of the Onion aside to blend.
+  - **Before you add the Onion!** Later on if you choose to use a blender to make the Curry Base then set a quarter of the Onion aside to blend.
 - While the Yellow Onion begins to simmer prep the other ingredients:
   - Thinly slice the Green Onion
   - Mince your Garlic
@@ -57,13 +57,13 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
   - Roughly cut the Bok Choy into 1/4 inch slices including the leaves.
   - _**Optional:** If you grabbed some Thai Eggplant then cut them into quarters as well._
 - Add the chopped Bok Choy to the Pot after the Yellow Onion is starting to become fragrant.
-- **Curry Base Options**
-  - **Using the Blender Method for Curry Base**
+- _**Choose Your Path: Curry Base Options**_
+  - **Using the Blender**
     - If you have a Blender handy add the Green Onion, Garlic, quarter of the Yellow Onion, 2 Tablespoons of Curry Paste, a splash of oil and about a half cup of Coconut Milk.
     - Throw in a couple dashes of Fish Sauce, Soy Sauce and _optional Sesame Oil_ for a flavor boost.
     - Blend them together until it's a relatively smooth texture.
     - Pour the Blended mix into the Pot.
-  - **Just the Pot Method for Curry Base**
+  - **Just the Pot**
     - If you do not want to use a blender then just add the Green Onion, Garlic and 2 Tablespoons of Curry Paste to your pot that is simmering the Yellow Onion.
     - Add in a half cup of Coconut Milk with a couple dashes of Fish Sauce, Soy Sauce and _optional Sesame Oil_.
 - Let the ingredients simmer for a few minutes then pour in any leftover Coconut Milk. _**Note: If you are using a blender you can add a little Coconut Milk to it and get all the little bits of missed ingredients. As a bonus it will aerate the milk.**_
