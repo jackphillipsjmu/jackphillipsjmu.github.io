@@ -2,6 +2,7 @@
 > You don’t need a silver fork to eat good food. _Paul Prudhomme_
 
 ## A Play on Thai Curry
+One of my favorite comfort foods to make on colder days. This recipe is influenced primarily by one of my best friend's, KK, who made a rendition of it shortly after my Mom passed. I hope you can be comforted by it too and throw in your own personal touches.
 
 <details>
 
@@ -23,9 +24,7 @@
   <dd>(Optional) Blender</dd>
 </dl>
 
-
 <h3>Ingredients</h3>
-
 <ul>
   <li>Red Thai Curry Paste <em>(2 tablespoons, <strong>Panang is my Recommended Curry Paste</strong>)</em></li>
   <li>Coconut Milk <em>(Buy a Box, 33.8 oz or a few cans. Having Extra can help to Dilute the heat of the Curry if needed)</em></li>
@@ -112,6 +111,50 @@
     <li>Adorn with a quarter of Lime to add to the dish as needed.</li>
   <li><strong>Enjoy!</strong></li>
 </ul>
+</details>
 
+## Red Wine Reduction Sauce
+Perfect for gatherings with Family and Friends this sauce is a great addition to any Red Meat. In the past I've used this concoction when making dinner in an immersion circulator to sous vide the meat which allows for the flavors to dig in and get a perfect cook every time.
+
+<details>
+
+  <summary>View Recipe</summary>
+
+<dl>
+  <dt>Use On</dt>
+    <dd>1 - 2 Pounds of Red Meat</dd>
+  <dt>Tool's You'll Need</dt>
+    <dd>Sauce Pan</dd>
+    <dd>Spatula</dd>
+    <dd>Kitchen Knife</dd>
+    <dd>Table Spoon for Measurement's</dd>
+    <dd>(Optional) Immersion Circulator (I use Anova's Base Model)</dd>
+</dl>
+
+<h3 id="ingredients">Ingredients</h3>
+<ul>
+<li>Butter (Dont be shy but 4 tablespoons if you want a number)</li>
+<li>3 Shallots (Cut into Quarters)</li>
+<li>3 Garlic Cloves or more if you like it Garlicy (Minced)</li>
+<li>Rosemary (2 - 3 Sprigs)</li>
+<li>Red Wine (1 Cup)</li>
+<li>Demi-Glace (1.5 ounces, or a 2 tablespoons of Browning/Seasoning Sauce if you cant find Demi-Glace)</li>
+<li>Salt and Pepper</li>
+</ul>
+<h3>Prep and Cook</h3>
+<ul>
+<li>Throw the Butter, Shallots and Rosemary into a Pan on Medium-High heat.</li>
+<li>Stir the pan occasionally until the Shallot is looking like it's beginning to caramelize.</li>
+<li>Toss in the Garlic and mix it together. Let it sit until you can smell the Garlic aroma.</li>
+<li>Add in the Red Wine to deglaze the pan and scrape up any flavor nuggets that may be sitting at the bottom of the pan and bring to a boil.</li>
+<li>Let the sauce reduce to burn off the alcohol twinge.<ul>
+<li>Give the sauce a taste every 5 - 10 minutes to see if it still has that alcohol bite.</li>
+</ul>
+</li>
+<li>Put the Demi-Glace/Browning Sauce into the same pan and mix it all up.</li>
+<li>Taste and add Salt and Pepper to your liking.</li>
+<li>Add on top of your meat before popping into the sous vide bath or as your cooking your meat.</li>
+<li><strong>Enjoy!</strong></li>
+</ul>
 
 </details>
