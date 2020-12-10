@@ -4,6 +4,7 @@
 ## A Play on Thai Curry
 
 <details>
+
   <summary>View Recipe</summary>
 
 <dl>
@@ -22,7 +23,8 @@
   <dd>(Optional) Blender</dd>
 </dl>
 
-### Ingredients
+
+Ingredients
 
 - Red Thai Curry Paste _(2 tablespoons, **Panang is my Recommended Curry Paste**)_
 - Coconut Milk _(Buy a Box, 33.8 oz or a few cans. Having Extra can help to Dilute the heat of the Curry if needed)_
