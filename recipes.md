@@ -3,22 +3,23 @@
 
 ## A Play on Thai Curry
 
-One of my favorite comfort foods to make on colder days. This recipe is influenced primarily by one of my best friend's, KK, who made a rendition of it shortly after my Mom passed. I hope you can be comforted by it too and throw in your own personal touches.
+<details>
+  <summary>View Recipe</summary>
 
 <dl>
-<dt>Serves</dt>
-<dd>4 - 6 People</dd>
-<dt>Preperation Time</dt>
-<dd>10 - 15 minutes</dd>
-<dt>Cook Time</dt>
-<dd>Under 1 Hour</dd>
-<dt>Tool's You'll Need</dt>
-<dd>Dutch Oven or Large Pot</dd>
-<dd>Spatula</dd>
-<dd>Kitchen Knife</dd>
-<dd>Table Spoon for Measurement's</dd>
-<dd>Serving Spoon/Ladel</dd>
-<dd>(Optional) Blender</dd>
+  <dt>Serves</dt>
+  <dd>4 - 6 People</dd>
+  <dt>Preperation Time</dt>
+  <dd>10 - 15 minutes</dd>
+  <dt>Cook Time</dt>
+  <dd>Under 1 Hour</dd>
+  <dt>Tool's You'll Need</dt>
+  <dd>Dutch Oven or Large Pot</dd>
+  <dd>Spatula</dd>
+  <dd>Kitchen Knife</dd>
+  <dd>Table Spoon for Measurement's</dd>
+  <dd>Serving Spoon/Ladel</dd>
+  <dd>(Optional) Blender</dd>
 </dl>
 
 ### Ingredients
@@ -81,3 +82,5 @@ One of my favorite comfort foods to make on colder days. This recipe is influenc
 - Add your cooked Rice or Noodles to a bowl and cover with your Curry.
 - Adorn with a quarter of Lime to add to the dish as needed.
 - **Enjoy!**
+
+</details>
