@@ -23,6 +23,7 @@
 </dl>
 
 ### Ingredients
+
 - Red Thai Curry Paste _(2 tablespoons, **Panang is my Recommended Curry Paste**)_
 - Coconut Milk _(Buy a Box, 33.8 oz or a few cans. Having Extra can help to Dilute the heat of the Curry if needed)_
 - Rice or Noodles to serve the goodness on top of _(1+ Cup of Rice, it's impossible to gauge the amount of Noodles so do what meets you and your guest needs)_
@@ -47,6 +48,7 @@
 - _(Optional)_ Lime _(Cut into Quarters)_
 
 ### Prep and Cook
+
 - Dice the Yellow Onion.
 - Heat up a Dutch Oven/Large Pot over medium-high heat with 1 - 2 Tablespoons of oil.
 - Add in the diced Yellow Onion with a pinch of salt.
@@ -79,6 +81,7 @@
   - _By leaving it on the heat source you will thicken the Curry just ensure you stir and scrape the bottom of the Pot for those tasty thangs that adhere to the bottom_.
 
 ### Serve
+
 - Add your cooked Rice or Noodles to a bowl and cover with your Curry.
 - Adorn with a quarter of Lime to add to the dish as needed.
 - **Enjoy!**
