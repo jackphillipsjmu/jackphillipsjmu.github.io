@@ -189,7 +189,7 @@ While working from Home during the Pandemic I had some times to experiment durin
   <li>Hoisin (1 - 2 Tablespoons)</li>
   <li>Any Noodle (Preferably something that lends to be Stir Fried)</li>
   <li>Honey, Sugar or Brown Sugar (1 Tablespoon)</li>
-  <li>Soy Sauce (1 Tablespoon)</li>
+  <li>Soy Sauce (1 Tablespoon, Supplies the Salt Content, Sub in Golden Mountain Sauce or other similar products if you'd like!)</li>
   <li>(Optional) Soft Boiled or Fried Egg</li>
   <li>(Optional) Lime to provide acidity</li>
   </ul>
@@ -207,7 +207,7 @@ While working from Home during the Pandemic I had some times to experiment durin
 
 <h3>Serve</h3>
   <ul>
-    <li>Put the coated Noodles into a Bowl and adorn with an egg if you'd like for extra protein.</li>
+    <li>Put the coated Noodles into a Bowl and adorn with an Egg if you'd like for extra protein.</li>
     <li>Squeeze on some Lime Juice to cut through the fattiness of the dish if that fits your palette.</li>
   <li><strong>Enjoy!</strong></li>
 </ul>
