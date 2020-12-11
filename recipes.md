@@ -132,29 +132,84 @@ Perfect for gatherings with Family and Friends this sauce is a great addition to
 </dl>
 
 <h3 id="ingredients">Ingredients</h3>
+  <ul>
+    <li>Butter (Dont be shy but 4 tablespoons if you want a number)</li>
+    <li>3 Shallots (Cut into Quarters)</li>
+    <li>3 Garlic Cloves or more if you like it Garlicy (Minced)</li>
+    <li>Rosemary (2 - 3 Sprigs)</li>
+    <li>Red Wine (1 Cup)</li>
+    <li>Demi-Glace (1.5 ounces, or a 2 tablespoons of Browning/Seasoning Sauce if you cant find Demi-Glace)</li>
+    <li>Salt and Pepper</li>
+    </ul>
+    <h3>Prep and Cook</h3>
+    <ul>
+    <li>Throw the Butter, Shallots and Rosemary into a Pan on Medium-High heat.</li>
+    <li>Stir the pan occasionally until the Shallot is looking like it's beginning to caramelize.</li>
+    <li>Toss in the Garlic and mix it together. Let it sit until you can smell the Garlic aroma.</li>
+    <li>Add in the Red Wine to deglaze the pan and scrape up any flavor nuggets that may be sitting at the bottom of the pan and bring to a boil.</li>
+    <li>Let the sauce reduce to burn off the alcohol twinge.
+    <ul>
+      <li>Give the sauce a taste every 5 - 10 minutes to see if it still has that alcohol bite.</li>
+    </ul>
+    </li>
+    <li>Put the Demi-Glace/Browning Sauce into the same pan and mix it all up.</li>
+    <li>Taste and add Salt and Pepper to your liking.</li>
+    <li>Add on top of your meat before popping into the sous vide bath or as your cooking your meat.</li>
+    <li><strong>Enjoy!</strong></li>
+  </ul>
+
+</details>
+
+
+## Pandemic Fusion Noodles
+While working from Home during the Pandemic I had some times to experiment during my lunch break to try and make something quick that is still tasty. Prep these ingredients ahead of time for extra time savings!
+
+<details>
+
+  <summary>View Recipe</summary>
+
+<dl>
+  <dt>Tool's You'll Need</dt>
+    <dd>Pan</dd>
+    <dd>Pot to Boil Noodles</dd>
+    <dd>Spatula</dd>
+    <dd>Kitchen Knife</dd>
+    <dd>Table Spoon for Measurement's</dd>
+</dl>
+
+<h3 id="ingredients">Ingredients</h3>
 <ul>
-<li>Butter (Dont be shy but 4 tablespoons if you want a number)</li>
-<li>3 Shallots (Cut into Quarters)</li>
-<li>3 Garlic Cloves or more if you like it Garlicy (Minced)</li>
-<li>Rosemary (2 - 3 Sprigs)</li>
-<li>Red Wine (1 Cup)</li>
-<li>Demi-Glace (1.5 ounces, or a 2 tablespoons of Browning/Seasoning Sauce if you cant find Demi-Glace)</li>
-<li>Salt and Pepper</li>
+  <li>Butter (1 Tablespoon, Substitute with Oil)</li>
+  <li>Gochujang (1 Tablespoon, Korean Chili Paste for Heat)</li>
+  <li>Chinese 5 Spice (Just a Pinch and by Pinch I mean it this can overpower a lot of dishes)</li>
+  <li>Green Onion (1 Stalk Thinly Sliced, Substitute with Onion Powder ~1 - 2 Tablespoons)</li>
+  <li>Garlic (1 Clove Minced, Substitute with Garlic Powder ~1 - 2 Tablespoons)</li>
+  <li>Fish Oil (Just a Dash)</li>
+  <li>Sesame Oil (Just a Dash)</li>
+  <li>Hoisin (1 - 2 Tablespoons)</li>
+  <li>Any Noodle (Preferably something that lends to be Stir Fried)</li>
+  <li>Honey or Brown Sugar (1 Tablespoon)</li>
+  <li>Soy Sauce (1 Tablespoon)</li>
+  <li>(Optional) Soft Boiled or Fried Egg</li>
+  <li>(Optional) Lime to provide acidity</li>
+  </ul>
+  <h3 id="prep-and-cook">Prep and Cook</h3>
+  <ul>
+  <li>Bring a Pot to a Boil for your Noodles. While that's happening you can begin the other steps below.</li>
+  <li>In a Pan over medium heat add Butter, Garlic, and Green Onion then cook until fragrant.</li>
+  <li>Whisk together the Gochujang, Fish Oil, Sesame Oil, Soy Sauce and Hoisin in another bowl or if in a time crunch just pop it into the pan and mix it together thoroughly.</li>
+  <li>Add the Gochujang mixture to the Pan with the Butter, Garlic and Green Onion stirring occasionally.</li>
+  <li>Put your Noodles into the boiling water if you haven't already and let them cook per your packages instructions.</li>
+  <li>Let the sauce reduce as your noodles are cooking.</li>
+  <li>Once the Noodles are done add them to your sauce pan and mix together until theyre coated head to toe.</li>
 </ul>
-<h3>Prep and Cook</h3>
-<ul>
-<li>Throw the Butter, Shallots and Rosemary into a Pan on Medium-High heat.</li>
-<li>Stir the pan occasionally until the Shallot is looking like it's beginning to caramelize.</li>
-<li>Toss in the Garlic and mix it together. Let it sit until you can smell the Garlic aroma.</li>
-<li>Add in the Red Wine to deglaze the pan and scrape up any flavor nuggets that may be sitting at the bottom of the pan and bring to a boil.</li>
-<li>Let the sauce reduce to burn off the alcohol twinge.<ul>
-<li>Give the sauce a taste every 5 - 10 minutes to see if it still has that alcohol bite.</li>
-</ul>
-</li>
-<li>Put the Demi-Glace/Browning Sauce into the same pan and mix it all up.</li>
-<li>Taste and add Salt and Pepper to your liking.</li>
-<li>Add on top of your meat before popping into the sous vide bath or as your cooking your meat.</li>
-<li><strong>Enjoy!</strong></li>
+
+
+<h3>Serve</h3>
+  <ul>
+    <li>Put the coated Noodles into a Bowl and adorn with a soft boiled egg if you'd like.</li>
+    <li>Squeeze on some Lime Juice to cut through the fattiness of the dish if that fits your palette.</li>
+  <li><strong>Enjoy!</strong></li>
 </ul>
 
 </details>
