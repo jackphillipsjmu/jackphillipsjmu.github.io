@@ -188,7 +188,7 @@ While working from Home during the Pandemic I had some times to experiment durin
   <li>Sesame Oil (Just a Dash)</li>
   <li>Hoisin (1 - 2 Tablespoons)</li>
   <li>Any Noodle (Preferably something that lends to be Stir Fried)</li>
-  <li>Honey or Brown Sugar (1 Tablespoon)</li>
+  <li>Honey, Sugar or Brown Sugar (1 Tablespoon)</li>
   <li>Soy Sauce (1 Tablespoon)</li>
   <li>(Optional) Soft Boiled or Fried Egg</li>
   <li>(Optional) Lime to provide acidity</li>
@@ -207,7 +207,7 @@ While working from Home during the Pandemic I had some times to experiment durin
 
 <h3>Serve</h3>
   <ul>
-    <li>Put the coated Noodles into a Bowl and adorn with a soft boiled egg if you'd like.</li>
+    <li>Put the coated Noodles into a Bowl and adorn with an egg if you'd like for extra protein.</li>
     <li>Squeeze on some Lime Juice to cut through the fattiness of the dish if that fits your palette.</li>
   <li><strong>Enjoy!</strong></li>
 </ul>
