@@ -174,13 +174,13 @@ While working from Home during the Pandemic I had some times to experiment durin
     <dd>Pot to Boil Noodles</dd>
     <dd>Spatula</dd>
     <dd>Kitchen Knife</dd>
-    <dd>Table Spoon for Measurement's</dd>
+    <dd>Teaspoon and Tablespoon for Measurement's</dd>
 </dl>
 
 <h3 id="ingredients">Ingredients</h3>
 <ul>
   <li>Butter (1 Tablespoon, Substitute with Oil)</li>
-  <li>Gochujang (1 Tablespoon, Korean Chili Paste for Heat)</li>
+  <li>Gochujang (Korean Chili Paste which is awesome but feel free to substitute with other Chili Paste's/Hot Sauces, 1 Teaspoon - 1 Tablespoon, this really depends on how much spice you can handle)</li>
   <li>Chinese 5 Spice (Just a Pinch and by Pinch I mean it this can overpower a lot of dishes)</li>
   <li>Green Onion (1 Stalk Thinly Sliced, Substitute with Onion Powder ~1 - 2 Tablespoons)</li>
   <li>Garlic (1 Clove Minced, Substitute with Garlic Powder ~1 - 2 Tablespoons)</li>
