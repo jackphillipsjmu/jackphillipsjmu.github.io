@@ -162,7 +162,7 @@ Perfect for gatherings with Family and Friends this sauce is a great addition to
 
 
 ## Send Noods
-While working from Home during the Pandemic I had some times to experiment during my lunch break to try and make something quick that is still tasty. Prep these ingredients ahead of time for extra time savings!
+While working from Home during the Pandemic I had some time to experiment during my lunch break to try and make something quick that is still tasty. Prep these ingredients ahead of time for extra time savings!
 
 <details>
 
