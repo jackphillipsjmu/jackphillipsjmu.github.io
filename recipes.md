@@ -201,7 +201,7 @@ While working from Home during the Pandemic I had some time to experiment during
   <li>Add the Gochujang mixture to the Pan with the Butter, Garlic and Green Onion stirring occasionally.</li>
   <li>Put your Noodles into the boiling water if you haven't already and let them cook per your packages instructions.</li>
   <li>Let the sauce reduce as your noodles are cooking.</li>
-  <li>Once the Noodles are done add them to your sauce pan and mix together until theyre coated head to toe.</li>
+  <li>Once the Noodles are done add them to your sauce pan and mix together until they're coated head to toe.</li>
 </ul>
 
 
@@ -209,6 +209,72 @@ While working from Home during the Pandemic I had some time to experiment during
   <ul>
     <li>Put the coated Noodles into a Bowl and adorn with an Egg if you'd like for extra protein.</li>
     <li>Squeeze on some Lime Juice to cut through the fattiness of the dish if that fits your palette.</li>
+  <li><strong>Enjoy!</strong></li>
+</ul>
+
+</details>
+
+## Sudo Sumo Salmon
+This recipe combines some of my favorite Asian inspired flavors with more traditional Salmon ingredients that makes for a tasty meal that can be served hot or cold.
+
+<details>
+
+  <summary>View Recipe</summary>
+
+  <dl>
+    <dt>Serves</dt>
+    <dd>4 - 6 People</dd>
+    <dt>Preperation Time</dt>
+    <dd>15 - 30 minutes</dd>
+    <dt>Cook Time</dt>
+    <dd>Under 1 Hour</dd>
+    <dt>Tool's You'll Need</dt>
+    <dd><em>(Optional)</em> Blender</dd>
+    <dd><em>(Optional)</em> Sous Vide/Immersion Circulator</dd>
+    <dd>Pan (Cast Iron Preferred)</dd>
+    <dd>Spatula</dd>
+    <dd>Kitchen Knife</dd>
+    <dd>Measuring Cup, Tablespoon and Teaspoon</dd>
+  </dl>
+
+<h3 id="ingredients">Ingredients</h3>
+<ul>
+  <li>Salmon (2 Pounds or More)</li>
+  <li>Olive Oil (1/4 Cup)</li>
+  <li>1 Shallot (Minced or Roughly Cut and Blended)</li>
+  <li>Yellow Onion (1/4 Onion Mined or Blended)</li>
+  <li>Garlic (2 - 3 Cloves Minced or Blended)</li>
+  <li>Dill (Fresh is Preferred, De-stemmed 2 - 3 Tablespoons)</li>
+  <li>Smoked Paprika (1 Tablespoon, Substitute with Normal Paprika)</li>
+  <li>Green Onion (2 - 3 Stalks Cut Thinly or Blended)</li>
+  <li>Ginger (1 Tablespoon)</li>
+  <li>Lemon (Cut in Half for Marinade, Slice other Half Thinly)</li>
+  <li>Hoisin (1/4 Cup)</li>
+  <li>Soy Sauce (1/2 Cup)</li>
+  <li>Honey (2 Tablespoons, Can Substitute with Sugar)</li>
+  <li>Gochujang (Korean Chili Paste which is awesome but feel free to substitute with other Chili Paste's/Hot Sauces, 1 Teaspoon - 1 Tablespoon, this really depends on how much spice you can handle)</li>
+  <li><em>(Optional)</em>  Teriyaki Sauce (1/4 Cup)</li>
+  <li><em>(Optional)</em>  Fish Sauce (Just a Dash)</li>
+  <li><em>(Optional)</em>  Liquid Smoke (1 Teaspoon)</li>
+</ul>
+
+<h3 id="prep-and-cook">Prep and Cook</h3>
+<ul>
+  <li>Pull out Salmon and Sprinkle with a little bit of Salt (not a lot of Salt! this is already a salty dish with the other sauces), Pepper and Smoked Paprika. After you're done cover and place in your fridge.</li>
+  <li>Combine all other ingredients (everything the Salmon) in a Blender if you're using one and blend until it's a smooth texture. This includes the the Olive Oil, juice from half of the Lemon and other ingredients outlined above.</li>
+  <li>Once Marinated Pour Marinade into a Bag that is Safe to Sous Vide if you're going that route or into a container of your choosing. You can also save some of the marinade to put on rice, noodles or vegetables it pretty much works on anything!</li>
+  <li>Place Salmon in Marinade and coat entirely.</li>
+  <li><em>(Optional)</em> If you would like some more Lemon flavor cut the other half into thin slices and place on top of the Salmon. Or, add more Lemon juice to the marinade.</li>
+  <li>Set Sous Vide to 111 Degrees and Drop Salmon in a water tight bag into the bath. Let cook more at a <strong>maximum</strong> of 45 minutes. If you're not using a Souse Vide then let your Salmon sit in the marinade for a few minutes and set your oven to a low temperature (150 - 200 degrees). Place the Salmon in the oven on a greased baking sheet or wood plank that has been soaked in water (around a half hour or so).</li>
+  <li>Once the Salmon is done in it's initial cook remove from the heat source and put a Cast Iron pan with a Tablespoon of oil onto your stove at Medium-High heat. Oils with a high smoke point are preferred so you're not smoking out your kitchen such as Vegetable Oil.</li>
+  <li>Once the pan is hot place the Salmon skin side down on the pan and let it cook for 2 - 3 minutes to get the skin nice and crispy.</li>
+  <li>Remove the pan from the heat source and move your Salmon to a serving tray.</li>
+</ul>
+
+
+<h3>Serve</h3>
+  <ul>
+    <li>If enjoying hot serve immediately over rice. Otherwise, let it cool off and add it into a salad for a healthier meal.</li>
   <li><strong>Enjoy!</strong></li>
 </ul>
 
