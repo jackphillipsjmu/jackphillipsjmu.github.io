@@ -274,7 +274,8 @@ This recipe combines some of my favorite Asian inspired flavors with more tradit
 
 <h3>Serve</h3>
   <ul>
-    <li>If enjoying hot serve immediately over rice. Otherwise, let it cool off and add it into a salad for a healthier meal.</li>
+    <li>If enjoying hot serve immediately over rice, noodles or vegetables. Otherwise, let it cool off and add it into a salad for a healthier meal.</li>
+    <li>If you have some marinade leftover use it as a sauce for other sides on the plate or mix with a little more Olive Oil to use as a salad dressing.</li>
   <li><strong>Enjoy!</strong></li>
 </ul>
 
